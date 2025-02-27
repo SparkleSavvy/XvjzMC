@@ -59,7 +59,7 @@ For direct connection:
 
 ## License
 
-This project is distributed under the [specify license, e.g., MIT] license. Refer to the `LICENSE` file for more details.
+This project is distributed under the [MIT](https://github.com/SparkleSavvy/XvjzMC?tab=MIT-1-ov-file) license. Refer to the `LICENSE` file for more details.
 
 ## Contact and Support
 
@@ -128,7 +128,7 @@ XvjzMC — это готовый к развертыванию self-hosted се�
 
 ## Лицензия
 
-Проект распространяется под лицензией [укажите лицензию, например, MIT]. Подробности смотрите в файле LICENSE.
+Проект распространяется под лицензией [MIT](https://github.com/SparkleSavvy/XvjzMC?tab=MIT-1-ov-file). Подробности смотрите в файле LICENSE.
 
 ## Контакты и поддержка
 
