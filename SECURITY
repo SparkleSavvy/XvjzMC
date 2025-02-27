@@ -1,0 +1,19 @@
+The XvjzMC project aims to provide a secure and stable Minecraft server experience. However, like any software, vulnerabilities may exist. Here’s some guidance and information:
+
+- **Reporting Vulnerabilities**: If you discover a security issue, please report it by creating an [issue on GitHub](https://github.com/SparkleSavvy/XvjzMC/issues) labeled "Security".
+- **Project Branches**:
+  - **Alpha and Beta**: These branches are for testing and experimentation. **No technical support** is provided for these branches. Use them at your own risk.
+  - **Release**: The stable version with full technical support. Security updates and bug fixes are prioritized for this branch.
+- **Recommendations**: Regularly update your server and plugins to the latest versions to minimize risks.
+
+---
+Russian Language:
+---
+
+Проект XvjzMC стремится обеспечить безопасную и стабильную работу вашего сервера Minecraft. Однако, как и в любом ПО, могут быть уязвимости. Вот рекомендации и информация:
+
+- **Сообщение об уязвимостях**: Если вы обнаружили проблему безопасности, пожалуйста, сообщите об этом через [issue на GitHub](https://github.com/SparkleSavvy/XvjzMC/issues) с пометкой "Security".
+- **Ветки проекта**:
+  - **Alpha и Beta**: Эти ветки предназначены для тестирования и экспериментов. Техническая поддержка в этих ветках **не предоставляется**. Используйте их на свой страх и риск.
+  - **Release**: Стабильная версия с полной технической поддержкой. Обновления безопасности и исправления ошибок применяются в первую очередь к этой ветке.
+- **Рекомендации**: Регулярно обновляйте сервер и плагины до последних версий, чтобы минимизировать риски.
