@@ -1,5 +1,7 @@
 # XvjzMC
 
+> I have been feeling unwell and depressed for the past 2-3 years, so updates and changes in my projects may be delayed. I am truly sorry.
+
 XvjzMC is a ready-to-deploy self-hosted Minecraft server version 1.20.1 with a Velocity proxy server 3.4.0 snapshot 475. The project includes a port forwarding script to Velocity, making it an ideal solution for users with gray IPs or ports blocked by their provider. It’s perfect for creating small to medium-sized mini-servers or for playing with friends. Optionally, you can remove the OpenLogin plugin and disable Velocity for direct server connections.
 
 ## Features
